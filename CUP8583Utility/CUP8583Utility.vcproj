@@ -44,7 +44,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="E:\PrivateWorkspace\PC_TOOLS\CUP8583Utility\CUP8583Utility;E:\PrivateWorkspace\PC_TOOLS\CUP8583Utility\CUP8583Utility\tlv;E:\PrivateWorkspace\PC_TOOLS\CUP8583Utility\CUP8583Utility\Utils"
+				AdditionalIncludeDirectories="&quot;$(ProjectDir)&quot;;&quot;$(ProjectDir)\8583&quot;;&quot;$(ProjectDir)\tlv&quot;;&quot;$(ProjectDir)\Utils&quot;"
 				PreprocessorDefinitions="WIN32;_WINDOWS;_DEBUG"
 				MinimalRebuild="true"
 				BasicRuntimeChecks="3"
